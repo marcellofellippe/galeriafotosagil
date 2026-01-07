@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { title: "Lobo", img: "img/lobo.jpg" },
         { title: "Girafa", img: "img/girafa.jpg" },
         { title: "Gato", img: "img/gato.jpg" },
-        { title: "Cachorro", img: "img/cachorro.png" },
+        { title: "Cachorro", img: "img/cachorro.jpg" },
         { title: "Águia", img: "img/aguia.jpg" },
         { title: "Cavalo", img: "img/cavalo.jpg" }
     ];
